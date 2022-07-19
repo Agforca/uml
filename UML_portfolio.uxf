@@ -3,6 +3,7 @@
 -id: int
 -nombre: string
 -apellido: string
+-profesion: string
 -domicilio: string
 -fechaNac: date
 -telefono: string
